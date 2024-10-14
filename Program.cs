@@ -35,5 +35,6 @@ public class Program
         int rem2 = int.Parse(Console.ReadLine());
         int rems = rem1 % rem2;
         Console.WriteLine("The Answer to the the problem of " + rem1 + " % " + rem2 + " is " + rems + ".");
+        /* Finished */
     }
 }
